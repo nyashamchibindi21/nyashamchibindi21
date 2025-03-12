@@ -2,6 +2,8 @@
 
 💻 **Data Scientist | AI Enthusiast | Tech for Sustainability**  
 
+![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) 
+
 🔍 **Current Projects:**  
 - Generative AI LLM for LinkedIn Post Generation  
 - WhatsApp Marketplace Bot  
