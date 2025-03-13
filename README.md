@@ -2,7 +2,7 @@
 
 💻 **Data Scientist | AI Enthusiast | Tech for Sustainability**  
 
-![Banner](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) 
+![Banner](https://github.com/nyashamchibindi21/nyashamchibindi21/blob/main/Black%20and%20White%20Modern%20Professional%20Sales%20and%20Marketing%20Profile%20LinkedIn%20Banner.jpg) 
 
 🔍 **Current Projects:**  
 - Generative AI LLM for LinkedIn Post Generation  
