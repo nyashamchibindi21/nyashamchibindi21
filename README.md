@@ -1,15 +1,15 @@
 # 👋 Hello, I'm Nyasha M Chibindi!
 
-💻 **Data Scientist | AI Enthusiast | Tech for Sustainability**  
+**Data Scientist | AI Enthusiast | Tech for Sustainability**  
 
 ![Banner](https://github.com/nyashamchibindi21/nyashamchibindi21/blob/main/Black%20and%20White%20Modern%20Professional%20Sales%20and%20Marketing%20Profile%20LinkedIn%20Banner.jpg) 
 
-🔍 **Current Projects:**  
+**Current Projects:**  
 - Generative AI LLM for LinkedIn Post Generation  
 - WhatsApp Marketplace Bot  
 - ETL Automation Dashboard  
 
-## 🛠 Tech Stack:
+## Tech Stack:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
